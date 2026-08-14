@@ -54,11 +54,8 @@ The Power BI dashboard provides an interactive view of campaign performance and 
 * Power BI Dashboard — Interactive marketing campaign dashboard
 * Dashboard Screenshot — Preview of the final dashboard
 
-## Key Insights & Recommendations
-
-The analysis highlights patterns in customer responses and campaign performance, helping identify successful campaigns, stronger customer segments, and areas where marketing strategies can be improved.
-
-Recommendations include focusing resources on better-performing campaigns, improving customer targeting, reviewing underperforming channels, and using customer behavior to improve future campaigns.
+## Project Status
+Completed
 
 ## Conclusion
 

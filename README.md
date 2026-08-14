@@ -1,4 +1,4 @@
-# Marketing-Campaign-Performance
+# Marketing-Campaign-Performance [Excel, Power BI, SQL]
 
 ## Project Overview
 

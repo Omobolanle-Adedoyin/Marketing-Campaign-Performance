@@ -1,3 +1,4 @@
+---DATA IMPORT: Download the CSV dataset and import it into your computer
 SELECT TOP (1000) [ID]
       ,[Year_Birth]
       ,[Education]

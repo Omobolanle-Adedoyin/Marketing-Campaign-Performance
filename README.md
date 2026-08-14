@@ -45,7 +45,8 @@ The analysis focuses on relevant marketing performance indicators, including:
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of campaign performance and customer behavior, allowing users to explore the data using relevant filters and visualizations.
-
+## Dashboard Preview
+![Marketing Campaign dashboard](https://github.com/Omobolanle-Adedoyin/Marketing-Campaign-Performance/blob/main/Marketing%20Campaign%20Dashboard.png)
 ## Project Files
 
 * Excel Workbook — Raw data, cleaned data, KPIs, and analysis
